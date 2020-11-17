@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Muhammad Yusyfi Fuada",
+    "umur": 20,
+    "nrp": "183040114",
+    "lulus": true,
+    "hobby": ["gaming", "motoran"],
+    "pembimbing": {
+      "pembimbing1": "IR R DJUNAEDY SAKAM MT",
+      "pembimbing2": "Doddy Ferdiansyah"
+    }
+  },
+  {
+    "nama": "Muhammad Yusup Fuada",
+    "umur": 20,
+    "nrp": "183040114",
+    "lulus": true,
+    "hobby": ["gaming", "motoran"],
+    "pembimbing": {
+      "pembimbing1": "IR R DJUNAEDY SAKAM MT",
+      "pembimbing2": "Doddy Ferdiansyah"
+    }
+  }
+]
